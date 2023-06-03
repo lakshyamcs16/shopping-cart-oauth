@@ -28,7 +28,7 @@
       "expiryAndValidity": "3 months"
     },
     {
-      "brandName": "Mastercard",
+      "brandName": "VISA",
       "countryName": "Canada",
       "currency": "USD",
       "denominations": [350],
@@ -37,7 +37,20 @@
       "productImage": "https://res.cloudinary.com/dyyjph6kx/image/upload/gift_vouchers/phpVKrWEp_wufwh7.jpg",
       "productDescription": "Description",
       "termsAndConditions": "This reward is non-refundable, and the full terms and conditions can be found on the digital rewards claim site.",
-      "howToUse": "Click the link above to access your reward (www.prepaiddigitalsolutions.com). The redemption site will ask for your name, address, and email to be associated with your Mastercard Prepaid Card. Ensure you provide the correct email address for proper communication. Choose a virtual or physical Prepaid Mastercard account, and note that access to your payment expires after 4 months with a 7-month activation period.",
+      "howToUse": "Click the link above to access your reward (www.prepaiddigitalsolutions.com). The redemption site will ask for your name, address, and email to be associated with your VISA Prepaid Card. Ensure you provide the correct email address for proper communication. Choose a virtual or physical Prepaid VISA account, and note that access to your payment expires after 4 months with a 7-month activation period.",
+      "expiryAndValidity": "3 months"
+    },
+    {
+      "brandName": "RuPay",
+      "countryName": "Canada",
+      "currency": "USD",
+      "denominations": [350],
+      "valueRestrictions": {},
+      "productId": 1011453454351054,
+      "productImage": "https://res.cloudinary.com/dyyjph6kx/image/upload/gift_vouchers/phpVKrWEp_wufwh7.jpg",
+      "productDescription": "Description",
+      "termsAndConditions": "This reward is non-refundable, and the full terms and conditions can be found on the digital rewards claim site.",
+      "howToUse": "Click the link above to access your reward (www.prepaiddigitalsolutions.com). The redemption site will ask for your name, address, and email to be associated with your RuPay Prepaid Card. Ensure you provide the correct email address for proper communication. Choose a virtual or physical Prepaid RuPay account, and note that access to your payment expires after 4 months with a 7-month activation period.",
       "expiryAndValidity": "3 months"
     }
   ],
