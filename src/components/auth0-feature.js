@@ -1,8 +1,8 @@
 import React from "react";
 
-export const Auth0Feature = ({ title, description, resourceUrl, icon }) => (
+export const Auth0Feature = ({ title, description, icon }) => (
   <a
-    href={resourceUrl}
+    href={'https://mastercard.com'}
     className="auth0-feature"
     target="_blank"
     rel="noopener noreferrer"
